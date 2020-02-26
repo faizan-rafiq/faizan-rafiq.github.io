@@ -1,2 +1,2 @@
-# mfaizanrafiq.github.io
+# faizan-rafiq.github.io
 Personal User Website
